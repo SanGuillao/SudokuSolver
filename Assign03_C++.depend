@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1508708500 source:c:\users\guillermo\desktop\ai\assign02_c++\main.cpp
+	"SetUp.h"
+
+1508712283 c:\users\guillermo\desktop\ai\assign02_c++\setup.h
+	<iostream>
+	<fstream>
+
+1508708377 source:c:\users\guillermo\desktop\ai\assign02_c++\setup.cpp
+	"SetUp.h"
+
+1508704900 source:z:\assign03_c++\main.cpp
+	"SetUp.h"
+
+1509826715 z:\assign03_c++\setup.h
+	<iostream>
+	<fstream>
+	<vector>
+	<list>
+	<string>
+
+1509826657 source:z:\assign03_c++\setup.cpp
+	"SetUp.h"
+
+1508704900 source:c:\users\guillermo\desktop\ai\assign03_c++\main.cpp
+	"SetUp.h"
+
+1509990547 c:\users\guillermo\desktop\ai\assign03_c++\setup.h
+	<iostream>
+	<fstream>
+	<vector>
+	<list>
+	<string>
+
+1509989699 source:c:\users\guillermo\desktop\ai\assign03_c++\setup.cpp
+	"SetUp.h"
+
+1509988601 source:c:\users\guillermo\desktop\ai\assign03_c++\naive.cpp
+	"SetUp.h"
+
+1509989442 source:c:\users\guillermo\desktop\ai\assign03_c++\smart.cpp
+	"SetUp.h"
+
+1508708500 source:c:\users\burgo\desktop\probsolving\ai\assign03_c++\main.cpp
+	"SetUp.h"
+
+1509994148 c:\users\burgo\desktop\probsolving\ai\assign03_c++\setup.h
+	<iostream>
+	<fstream>
+	<vector>
+	<list>
+	<string>
+
+1509992202 source:c:\users\burgo\desktop\probsolving\ai\assign03_c++\naive.cpp
+	"SetUp.h"
+
+1509993300 source:c:\users\burgo\desktop\probsolving\ai\assign03_c++\setup.cpp
+	"SetUp.h"
+
+1509993044 source:c:\users\burgo\desktop\probsolving\ai\assign03_c++\smart.cpp
+	"SetUp.h"
+
